@@ -9,8 +9,7 @@ public class PrimeiroProjeto {
 
         Gato gato = new Gato("Astolfino", "Preto", 102);
 
-        System.out.println(gato);
-
+        System.out.println(gato + "OI");
     }
-
+    
 }
